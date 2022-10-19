@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mini-Shopping-Cart/static/css/main.02829d83.css",
+    "main.js": "/Mini-Shopping-Cart/static/js/main.4e3663b4.js",
+    "index.html": "/Mini-Shopping-Cart/index.html",
+    "main.02829d83.css.map": "/Mini-Shopping-Cart/static/css/main.02829d83.css.map",
+    "main.4e3663b4.js.map": "/Mini-Shopping-Cart/static/js/main.4e3663b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02829d83.css",
+    "static/js/main.4e3663b4.js"
+  ]
+}
